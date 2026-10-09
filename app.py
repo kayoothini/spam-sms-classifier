@@ -192,7 +192,7 @@ def clean_text(text):
 
 # ============ HEADER ============
 st.markdown("# 📩 Spam SMS Classifier")
-st.markdown('<p class="subtitle">AI-powered spam detection in real-time</p>', unsafe_allow_html=True)
+st.markdown('<p class="subtitle">Smart spam detection in real-time</p>', unsafe_allow_html=True)
 
 st.markdown("---")
 
